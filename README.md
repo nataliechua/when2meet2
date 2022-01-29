@@ -10,7 +10,7 @@
 
 
 
-## 🚀 IS216 - Group 21- Little Piglets
+## 🚀 IS216 - Group 21
 * members:
     -  Wisely Kwek | wisely.kwek@scis.smu.edu.sg
     -  Liao Jia Xiong | jxliao.2020@scis.smu.edu.sg
@@ -200,20 +200,9 @@ https://www.figma.com/file/edIvK9nGUJOiEqklyrTZLm/When2Meet2-Initial-Prototype?n
 https://www.figma.com/file/BnLryhqjH8Pte9wNnAD1Cp/When2Meet-2.0-Prototype?node-id=0%3A1
 
 
-
-## 🤓 Other Things ##
-* FEEL FREE to **add more things** into this **README**
-
-
 ## Acknowledgements ##
 
 * Flaticon 
 * Prof Kyong for the giving us the directions as to how go about the prototype
 * Our members who work really hard to make this website possible
 
-## 🤓 Useful Resources ##
-* [**Markdown** Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-* [**GOOD** README Example 1](https://github.com/testing-library/cypress-testing-library)
-* [**GOOD** README Example 2](https://github.com/typeorm/typeorm)
-* [**GOOD** README Example 3](https://github.com/amark/gun)
-* [**GOOD** README Example 4](https://github.com/google/leveldb)
